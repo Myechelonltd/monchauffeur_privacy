@@ -1,7 +1,7 @@
 # monchauffeur_privacy policy
 
-# Privacy Policy for 14barber Mobile App
-This Privacy Policy describes how monchauffeur ("we," "us," or "our") collects, uses, and shares information about you when you use the monchauffeur mobile application (the "App"). By using the App, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy.
+# Privacy Policy for gerayo Mobile App
+This Privacy Policy describes how gerayo ("we," "us," or "our") collects, uses, and shares information about you when you use the gerayo mobile application (the "App"). By using the App, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy.
 
 # Information We Collect
 Personal Information: When you use the App, we may collect personal information you provide to us, such as your name, email address, phone number, and other information you choose to provide.
@@ -37,4 +37,4 @@ We take reasonable measures to protect the security of your information and impl
 We may update this Privacy Policy from time to time. If we make material changes to this Privacy Policy, we will notify you by posting the updated Privacy Policy on this page.
 
 # Contact Us
-If you have any questions about this Privacy Policy or our privacy practices, you may contact us at 28wavesltd@gmail.com.
+If you have any questions about this Privacy Policy or our privacy practices, you may contact us at gerayorw@gmail.com.
